@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Raw RTE / Open-Meteo downloads (the processed table in data/processed is committed)
+data/raw/
+
+# Editors / OS
+.idea/
+.DS_Store
+Thumbs.db
